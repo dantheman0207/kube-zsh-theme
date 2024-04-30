@@ -3,7 +3,7 @@ An ohmyzsh theme, intended to work with Kubernetes.
 
 ![Kube Zsh Theme](https://github.com/dantheman0207/kube-zsh-theme/assets/1239724/4f0d2330-d3f9-46c9-a49d-00acf3ba5950)
 
-You can find this theme in the official <a href="https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes#macos-terminal">**Github Wiki**</a> of Oh My ZSH.
+This theme is my personal adaptation of `kube-zsh-theme` with some minor changes (adding namespace and some formatting).
 - Tested on MacOS & WSL2
 
 ## Features
@@ -16,7 +16,7 @@ You can find this theme in the official <a href="https://github.com/ohmyzsh/ohmy
 - uses different colors for readability
 
 ## Installation
-1. Write in your terminal `git clone https://github.com/datheman0207/kube-zsh-theme.git/ $ZSH_CUSTOM/themes/kube-zsh-theme`
+1. Write in your terminal `git clone https://github.com/dantheman0207/kube-zsh-theme.git/ $ZSH_CUSTOM/themes/kube-zsh-theme`
 1. Open your `.zshrc`
 1. Change your `ZSH_THEME` to `kube-zsh-theme/kube`
 
