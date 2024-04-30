@@ -16,7 +16,7 @@ This theme is my personal adaptation of `kube-zsh-theme` with some minor changes
 - uses different colors for readability
 
 ## Installation
-1. Write in your terminal `git clone https://github.com/dantheman0207/kube-zsh-theme.git/ $ZSH_CUSTOM/themes/kube-zsh-theme`
+1. Run in terminal: `git clone https://github.com/dantheman0207/kube-zsh-theme.git/ $ZSH_CUSTOM/themes/kube-zsh-theme`
 1. Open your `.zshrc`
 1. Change your `ZSH_THEME` to `kube-zsh-theme/kube`
 
