@@ -1,5 +1,5 @@
 # kube-zsh-theme
-An ohmyzsh theme, intended to work with Kubernetes kubectl context. This theme adapts your console to the MacOS.
+An ohmyzsh theme, intended to work with Kubernetes.
 
 ![Kube Zsh Theme](https://github.com/dantheman0207/kube-zsh-theme/assets/1239724/4f0d2330-d3f9-46c9-a49d-00acf3ba5950)
 
