@@ -18,4 +18,4 @@ TIME="$COLOR_WHITE"["$COLOR_YELLOW%*$COLOR_WHITE"]"%{$reset_color%}"
 KUBE="$COLOR_WHITE"["$COLOR_RED⎈""$COLOR_MAGENTA$(kubectx -c)$COLOR_WHITE":"$COLOR_GREEN$(kubens -c)$COLOR_WHITE"]
 DIR="$COLOR_CYAN%~\$(git_prompt_info) "
 PROMPT="$COLOR_WHITE➭ "
-PROMPT="$TIME$KUBE$DIR$PROMPT%{$reset_color%}" 
+PROMPT="$TIME"$COLOR_WHITE"["$COLOR_RED⎈""$COLOR_MAGENTA$(kubectx -c)$COLOR_WHITE":"$COLOR_GREEN$(kubens -c)$COLOR_WHITE"]$DIR$PROMPT%{$reset_color%}" 
